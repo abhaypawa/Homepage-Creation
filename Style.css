@@ -211,7 +211,7 @@ nav {
 }
 .right-content div{
     display:block;  
-    padding: 50px 50px ;
+    padding: 0px 20px ;
     justify-content: flex-start;
     border-bottom: 1px solid rgba(0, 0, 0, .4); 
 
